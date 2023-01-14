@@ -13,3 +13,9 @@
 ## Models used:
   - for classification Recurrent Neural Network (`RNN`) was used
   - for anomaly detection `Autoencoder` consisted of `RNNs` was used 
+
+## Files structure:
+  - `data` is folder with samples and labels
+  - `models` is folder with saved models in .h5 format
+  - `data_generation` is notebook with generating data
+  - `analyzing` is main notebook
